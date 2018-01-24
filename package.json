@@ -7,8 +7,12 @@
     "start": "webpack-dev-server --open",
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erikwalton/garantee_web.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Erik Walton",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
